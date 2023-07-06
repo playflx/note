@@ -7,7 +7,7 @@
 				s5 a2 −→ s6 
 	• Case 2: the forbidden area is inaccessible (e.g., surrounded by a wall)
 					s5 a2 −→ s5l
-
+π(a1|s1) = 0  pi指策略，代表概率
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYyNTA2MjI3XX0=
+eyJoaXN0b3J5IjpbLTE4OTU3OTAzNjJdfQ==
 -->
