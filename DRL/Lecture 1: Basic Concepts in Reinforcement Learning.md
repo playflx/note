@@ -9,8 +9,10 @@
 					s5 a2 −→ s5l
 π(a1|s1) = 0  pi指策略，代表概率
 ![在action一直进行的情况下，使用一个折扣率，根据折扣率来判断结果值跟近处值有关还是远处值](/imgs/2023-07-06/r7mxq4mdagrLO4gl.png)
+在action一直进行的情况下，使用一个折扣率，根据折扣率来判断结果值跟近处值有关还是远处值
 ![MDP就是MDP本身，M代表Markov属性，具有历史无关性，当前状态或奖励只跟前一状态或奖励有关，D代表的是抉择即Policy策略，状态选择的actiobn的probability](/imgs/2023-07-06/7I6mU0SeA495f5db.png)
+MDP就是MDP本身，M代表Markov属性，具有历史无关性，当前状态或奖励只跟前一状态或奖励有关，D代表的是抉择即Policy策略，状态选择的actiobn的probability
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzOTQyOTc3NF19
+eyJoaXN0b3J5IjpbLTQ1ODAwNzM5OCwxNDM5NDI5Nzc0XX0=
 -->
