@@ -8,9 +8,9 @@
 	• Case 2: the forbidden area is inaccessible (e.g., surrounded by a wall)
 					s5 a2 −→ s5l
 π(a1|s1) = 0  pi指策略，代表概率
-![输入图片说明](/imgs/2023-07-06/r7mxq4mdagrLO4gl.png)
+![在action一直进行的情况下，使用一个折扣率，根据折扣率来判断结果值跟近处值有关还是远处值](/imgs/2023-07-06/r7mxq4mdagrLO4gl.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzEzMzA1OV19
+eyJoaXN0b3J5IjpbMTM2NTM1NDE3Nl19
 -->
