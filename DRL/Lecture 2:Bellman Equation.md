@@ -1,4 +1,4 @@
-Bellman Equation devarition
+$$Bellman Equation devarition$$
 $$ G_{t} = R_{t+1}+\gamma*G_{t+1}  $$
 $$ \Rightarrow v_{\pi}(S) = \Epsilon\Big[R_{t+1}+\gamma*G_{t+1}\vert S_{t} = s\Big] $$
 $$\Rightarrow \Epsilon \Big[R_{t+1}\vert S_{t}=s\Big]+\gamma\Epsilon\Big[G_{t+1}\vert S_{t}=s\Big] $$
@@ -11,5 +11,5 @@ $$\Rightarrow r_{\pi}(s)+\gamma\sum_{s'}v_{\pi}(s')p(s'\vert s)$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1MDc5ODQ3XX0=
+eyJoaXN0b3J5IjpbLTMyMDU3ODc3NywzMTUwNzk4NDddfQ==
 -->
