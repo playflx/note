@@ -6,14 +6,15 @@
 
 这里是
 
-$ a_{ij}^{2} + b^3_{2}=x^{t} + y' + x''_{12} $
+$$ a_{ij}^{2} + b^3_{2}=x^{t} + y' + x''_{12} $$
 $$ G_{t} = R_{t+1}+\gamma*G_{t+1}  $$
+$$ v_{\pi}(S) =  $$
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxNTEzNTUwLC0yOTYyMDM3NDEsNDg2NT
-Y4MzM1XX0=
+eyJoaXN0b3J5IjpbMjE0Njg3OTcyMSwtMjk2MjAzNzQxLDQ4Nj
+U2ODMzNV19
 -->
