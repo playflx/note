@@ -11,6 +11,5 @@ $$\Rightarrow r_{\pi}(s)+\gamma\sum_{s'}v_{\pi}(s')p(s'\vert s)$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODQ4NTM2MCwtMzIwNTc4Nzc3LDMxNT
-A3OTg0N119
+eyJoaXN0b3J5IjpbMjAxODQ4NTM2MF19
 -->
