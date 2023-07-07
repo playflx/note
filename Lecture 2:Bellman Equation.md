@@ -12,6 +12,5 @@ $$v_{\pi}(s)=\sum_a \pi(a\vert s)\sum_r p(r\vert s,a)+\gamma sum_a \pi(a\vert s)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM3MjA2NTU1LC0xNTI0OTA1NDQxLC0xOT
-g1MDk3NjE1XX0=
+eyJoaXN0b3J5IjpbMjM3MjA2NTU1XX0=
 -->
