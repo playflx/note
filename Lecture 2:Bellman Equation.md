@@ -10,14 +10,14 @@ $$\Rightarrow r_{\pi}(s)+\gamma\sum_{s'}v_{\pi}(s')p(s'\vert s)$$
 $$v_{\pi}(s)=\sum_a \pi(a\vert s)\sum_r  p(r\vert s,a)r+\gamma \sum_a \pi(a\vert s)\sum_{s'}v_{\pi}(s')p(s'\vert s,a)$$
 
 action value
-$$\mathbb{E}\Big[G_t \vert S_t=s\Big]=\sum_a \mathbb{E}\Big[G_t\vert S_t=s,A_t=a\Big]\pi (a\vert s)$$
+$$\mathbb{E}\Big[G_t \vert S_t=s\Big]=\sum_a \mathbb{E}\Big[G_t\vert S_t=s,A_t=a\Big]p_\pi (a\vert ss,a)$$
 $$\Rightarrow v_\pi(s) = \sum_a \pi(a\vert s) q_\pi(s,a)$$
-$$v_\pi(s) = \sum_a\pi(a\vert s)\Big[\sum_r p(r\vert s,a$$
+$$v_\pi(s) = \sum_a\pi(a\vert s)\Big[\sum_r p(r\vert s,as$$
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDMxNTg0MTMsNTc3NTk3MjE2LDEyMT
-cxNzU4MTgsLTc1NjA5MTEzNF19
+eyJoaXN0b3J5IjpbMjI0MjM4NTU5LC0xNzAzMTU4NDEzLDU3Nz
+U5NzIxNiwxMjE3MTc1ODE4LC03NTYwOTExMzRdfQ==
 -->
