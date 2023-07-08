@@ -1,5 +1,5 @@
 Bellman Equation devarition
-state value
+$ state value$
 $$G_{t} = R_{t+1}+ G_{t+1}$$
 $$\Rightarrow v_{\pi}(s) = \mathbb{E}\Big[R_{t+1}+\gamma G_{t+1}\vert S_{t} = s\Big]$$
 $$\Rightarrow \mathbb{E} \Big[R_{t+1}\vert S_{t}=s\Big]+\gamma\mathbb{E}\Big[G_{t+1}\vert S_{t}=s\Big]$$
@@ -19,5 +19,5 @@ $$\Rightarrow \sum_aq_\pi(s\vert a)=\sum_r p(r\vert s,a)r+\sum_{s'}v_\pi(s')p(s'
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3Nzc4NDUzXX0=
+eyJoaXN0b3J5IjpbMzg5OTU0ODkzXX0=
 -->
