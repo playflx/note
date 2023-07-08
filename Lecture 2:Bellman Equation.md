@@ -9,10 +9,13 @@ $$\Rightarrow\sum_a\pi(a\vert s)\sum_rp(r\vert s,a)+\gamma\sum_{s'}v_{\pi}(s')\s
 $$\Rightarrow r_{\pi}(s)+\gamma\sum_{s'}v_{\pi}(s')p(s'\vert s)$$
 $$v_{\pi}(s)=\sum_a \pi(a\vert s)\sum_r  p(r\vert s,a)r+\gamma \sum_a \pi(a\vert s)\sum_{s'}v_{\pi}(s')p(s'\vert s,a)$$
 
+action value
+$$\mathbb{E}\Big[G_t \vert S_t=s\Big]=\sum_a \mathbb{E}\$$
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc3NTk3MjE2LDEyMTcxNzU4MTgsLTc1Nj
-A5MTEzNF19
+eyJoaXN0b3J5IjpbLTE2NjkwODA0MDAsNTc3NTk3MjE2LDEyMT
+cxNzU4MTgsLTc1NjA5MTEzNF19
 -->
