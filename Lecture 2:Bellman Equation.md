@@ -19,6 +19,5 @@ $$\Rightarrow \sum_aq_\pi(s\vert a)=\sum_r p(r\vert s,a)r+\sum_{s'}v_\pi(s')p(s'
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3Nzc4NDUzLDIyNDIzODU1OSw1Nzc1OT
-cyMTYsMTIxNzE3NTgxOCwtNzU2MDkxMTM0XX0=
+eyJoaXN0b3J5IjpbNDU3Nzc4NDUzXX0=
 -->
