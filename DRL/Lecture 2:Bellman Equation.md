@@ -12,13 +12,14 @@ $$v_{\pi}(s)=\sum_a \pi(a\vert s)\sum_r  p(r\vert s,a)r+\gamma \sum_a \pi(a\vert
 action value
 $$\mathbb{E}\Big[G_t \vert S_t=s\Big]=\sum_a \mathbb{E}\Big[G_t\vert S_t=s,A_t=a\Big]\pi (a\vert s)$$
 $$\Rightarrow v_\pi(s) = \sum_a \pi(a\vert s) q_\pi(s,a)$$
-$$v_\pi(s) = \sum_a\pi(a\vert s)\Big[\sum_r p(r\vert $$
+$$v_\pi(s) = \sum_a\pi(a\vert s)\Big[\sum_r p(r\vert s,a)r+\sum_{s'}v_\pi(s')p(s'\vert s,a)\Big]$$
+$$\Rightarrow $$
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE1MTk0NTY5LDU3NzU5NzIxNiwxMjE3MT
-c1ODE4LC03NTYwOTExMzQsMjAxODQ4NTM2MCwtMzIwNTc4Nzc3
-LDMxNTA3OTg0N119
+eyJoaXN0b3J5IjpbLTE3NjczNjg4NjYsNTc3NTk3MjE2LDEyMT
+cxNzU4MTgsLTc1NjA5MTEzNCwyMDE4NDg1MzYwLC0zMjA1Nzg3
+NzcsMzE1MDc5ODQ3XX0=
 -->
