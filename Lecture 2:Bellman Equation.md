@@ -13,12 +13,12 @@ action value
 $$\mathbb{E}\Big[G_t \vert S_t=s\Big]=\sum_a \mathbb{E}\Big[G_t\vert S_t=s,A_t=a\Big]p_\pi (a\vert ss,a)$$
 $$\Rightarrow v_\pi(s) = \sum_a \pi(a\vert s) q_\pi(s,a)$$
 $$v_\pi(s) = \sum_a\pi(a\vert s)\Big[\sum_r p(r\vert s,as)r+\sum_{s'}v_\pi(s')p(s'\vert s,a)\Big]$$
-$$\Rightarrow $$
+$$\Rightarrow \sum_aq_\pi(s\vert a)=\sum_r p(r\vert s,a)r+\sum_{s'}v_\pi(s')p(s'\vert s,a)$$
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTMzMjY5OTAsMjI0MjM4NTU5LDU3Nz
-U5NzIxNiwxMjE3MTc1ODE4LC03NTYwOTExMzRdfQ==
+eyJoaXN0b3J5IjpbNDU3Nzc4NDUzLDIyNDIzODU1OSw1Nzc1OT
+cyMTYsMTIxNzE3NTgxOCwtNzU2MDkxMTM0XX0=
 -->
