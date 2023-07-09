@@ -3,6 +3,7 @@ $ state value$
 $$G_{t} = R_{t+1}+ G_{t+1}$$
 $$\Rightarrow v_{\pi}(s) = \mathbb{E}\Big[R_{t+1}+\gamma G_{t+1}\vert S_{t} = s\Big]$$
 $$\Rightarrow \mathbb{E} \Big[R_{t+1}\vert S_{t}=s\Big]+\gamma\mathbb{E}\Big[G_{t+1}\vert S_{t}=s\Big]$$
+$$\mathbb{E} \Big[R_{t+1}\vert S_{t}=s\Big] 的推导\Rightarrow 在策略\pi 情况下，= $$
 $$\Rightarrow \sum_a\pi(a\vert s) \sum_rp(r\vert s,a)r + \gamma\mathbb{E}\Big[G_{t+1}\vert S_{t}=s,S_{t+1=s'}\Big]p(s'\vert s)$$
 $$\Rightarrow \sum_a\pi(a|s)\sum_r p(r|s,a)r +γ\mathbb{E}\Big[G_{t+1}|S_{t+1}=s'\Big]p(s'|s)$$
 $$\Rightarrow\sum_a\pi(a\vert s)\sum_rp(r\vert s,a)+\gamma\sum_{s'}v_{\pi}(s')\sum_a\pi(a\vert s)\sum_{s'}p(s'\vert s,a)$$
@@ -19,7 +20,7 @@ $$\Rightarrow \sum_aq_\pi(s\vert a)=\sum_r p(r\vert s,a)r+\sum_{s'}v_\pi(s')p(s'
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzEyODQ0MzIsNTc3NTk3MjE2LDEyMT
-cxNzU4MTgsLTc1NjA5MTEzNCwyMDE4NDg1MzYwLC0zMjA1Nzg3
-NzcsMzE1MDc5ODQ3XX0=
+eyJoaXN0b3J5IjpbLTc5NzA4NTYwNCwtMTA3MTI4NDQzMiw1Nz
+c1OTcyMTYsMTIxNzE3NTgxOCwtNzU2MDkxMTM0LDIwMTg0ODUz
+NjAsLTMyMDU3ODc3NywzMTUwNzk4NDddfQ==
 -->
